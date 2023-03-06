@@ -331,50 +331,50 @@ header .seacrh-bar-container label:hover {
   padding: 1rem 0;
   color: #666;
 }
-.packages .box-contanier {
+.touristAttractions .box-contanier {
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
 }
 
-.packages .box-contanier .box {
+.touristAttractions .box-contanier .box {
   flex: 1 1 30rem;
   border-radius: 0.5rem;
   overflow: hidden;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
 }
-.packages .box-contanier .box img {
+.touristAttractions .box-contanier .box img {
   height: 25rem;
   width: 100%;
   object-fit: cover;
 }
 
-.packages .box-contanier .box .content {
+.touristAttractions .box-contanier .box .content {
   padding: 2rem;
 }
-.packages .box-contanier .box .content h3 {
+.touristAttractions .box-contanier .box .content h3 {
   font-size: 2rem;
   color: #333;
 }
-.packages .box-contanier .box .content h3 i {
+.touristAttractions .box-contanier .box .content h3 i {
   color: var(--orange);
   padding: 0.5rem;
 }
-.packages .box-contanier .box .content p {
+.touristAttractions .box-contanier .box .content p {
   font-size: 2rem;
   color: #666;
   padding: 1rem 0;
 }
-.packages .box-contanier .box .content .stars i {
+.touristAttractions .box-contanier .box .content .stars i {
   font-size: 2rem;
   color: var(--orange);
 }
-.packages .box-contanier .box .content .price {
+.touristAttractions .box-contanier .box .content .price {
   font-size: 2rem;
   color: #333;
   padding-top: 1rem;
 }
-.packages .box-contanier .box .content .price span {
+.touristAttractions .box-contanier .box .content .price span {
   color: #666;
   font-size: 1.5rem;
   text-decoration: line-through;
